@@ -2,7 +2,7 @@ group 'rekab.app.background_locator'
 version '1.0-SNAPSHOT'
 
 buildscript {
-    ext.kotlin_version = '1.4.21'
+    ext.kotlin_version = '1.9.10'
     repositories {
         google()
         jcenter()
